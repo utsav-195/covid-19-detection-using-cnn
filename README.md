@@ -10,7 +10,7 @@ We used the COVID-19 radiography dataset from [kaggle](https://www.kaggle.com/ta
 The dataset contains 219 images of COVID-19 patient’s lungs, 1341 images of healthy patient’s images and 1345 images of viral pneumonia patients. These images are 1024 X 1024 pixels with all three channels that are RGB.
 
 The normal, viral and COVID images look like this:
-![screenshots/plot_images.png](screenshots/plot_images.PNG?raw=true)
+![screenshots/plot_images.png](screenshots/plot_images.png?raw=true)
 
 
 ### Execution
