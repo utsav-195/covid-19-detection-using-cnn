@@ -36,5 +36,6 @@ The results of our experiments and approach are below:
 
 Overall it was a fun project to work on which lead to immense learning!
 We plan to continue working to acquire a 99.999% accuracy.
+You can download the weights of the best model that is VGG-19 [here](https://drive.google.com/open?id=1XDp5d-0cMwe9g5vazY5CGGolqCQXSlt2).
 
 **Note:** More detailed information/report can be found in the [Project Report.pdf](https://github.com/utsav-195/covid-19-detection-using-cnn/blob/master/Project%20Report.pdf).
